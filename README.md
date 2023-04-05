@@ -1,15 +1,14 @@
-# nainajnaho.github.io
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My PDFs</title>
+    <title>Documents</title>
   </head>
   <body>
     <h1>My PDFs</h1>
-    <p>Here are two PDF files:</p>
+    <p>PDF files:</p>
     <ul>
-      <li><a href="https://github.com/nainajnahO/nainajnaho.github.io/blob/main/privacy-policy.pdf">First PDF</a></li>
-      <li><a href="https://github.com/your-username/your-repo-name/raw/main/path/to/second/file.pdf">Second PDF</a></li>
+      <li><a href="https://github.com/nainajnahO/nainajnaho.github.io/blob/main/privacy-policy.pdf">Privacy Policy</a></li>
+      <li><a href="https://github.com/nainajnahO/nainajnaho.github.io/blob/main/terms-and-conditions.pdf">Terms & Conditions</a></li>
     </ul>
   </body>
 </html>
