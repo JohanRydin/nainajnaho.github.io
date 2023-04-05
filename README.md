@@ -61,6 +61,10 @@
 </ul>
 <h1>Contact Us</h1>
 <p>Don't hesitate to contact us if you have any questions.</p>
+   <ul>
+   <li>Via Email: david.ohanjanian@gmail.com</li>
+
+ </ul>
 <ul>
 </ul></body>
 </html>
