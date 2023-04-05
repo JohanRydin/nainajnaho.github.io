@@ -1,11 +1,10 @@
-#SEIKS documentation
 <!DOCTYPE html>
 <html>
   <head>
     <title>Documents</title>
   </head>
   <body>
-    <h1>My PDFs</h1>
+    <h1>SEIKS documentations</h1>
     <p>PDF files:</p>
     <ul>
       <li><a href="https://github.com/nainajnahO/nainajnaho.github.io/blob/main/privacy-policy.pdf">Privacy Policy</a></li>
